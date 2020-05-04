@@ -1,0 +1,13 @@
+
+
+.card-body:hover {
+  border: 3px solid #c3509a;
+}
+
+.btn:hover {
+  background-color: #144b8c;
+}
+
+.nav-link:hover {
+  background-color: #FADFF7;
+}
